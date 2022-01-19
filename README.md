@@ -54,7 +54,7 @@ namespace NH43
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30">
   </a>
   
-  <a href="https://www.tiktok.com/@ngoctien_tnt/">
+  <a href="https://www.tiktok.com/@nghuy271">
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tiktok-icon.svg" alt="TikTok" height="30" width="30">
   </a>
   
