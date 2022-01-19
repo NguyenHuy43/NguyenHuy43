@@ -46,7 +46,7 @@ namespace NH43
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
   </a>
   
-  <a href="mailto:ngoctienTNT.vn@gmail.com">
+  <a href="mailto:huynguyen27012002@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
   </a>
 	
