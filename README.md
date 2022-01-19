@@ -1,7 +1,7 @@
 # <p align="center">Nguyễn Hoàng Huy</p>
 
 <p align="center">
-	<a href="https://github.com/ngoctienTNT">
+	<a href="https://github.com/NguyenHuy43">
 	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="NH43">
 	</a>
 </p>
@@ -34,7 +34,7 @@ namespace TNT
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
   </a>
 	
-  <a href="https://github.com/ngoctienTNT">
+  <a href="https://github.com/NguyenHuy43">
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
   </a>
   
