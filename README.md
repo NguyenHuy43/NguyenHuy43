@@ -38,11 +38,11 @@ namespace NH43
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
   </a>
   
-  <a href="https://dev.to/ngoctientnt">
+<!--   <a href="https://dev.to/ngoctientnt">
     <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
-  </a>
+  </a> -->
 	
-  <a href="https://www.linkedin.com/in/ngoctientnt/">
+  <a href="https://www.linkedin.com/in/huy-nguy%E1%BB%85n-566306208/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
   </a>
   
