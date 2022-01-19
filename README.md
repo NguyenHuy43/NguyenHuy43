@@ -2,24 +2,24 @@
 
 <p align="center">
 	<a href="https://github.com/NguyenHuy43">
-	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="NH43">
+	<img src="https://www.facebook.com/photo/?fbid=905938109898678&set=pob.100014474929273" width = "200" alt="NH43">
 	</a>
 </p>
 
 <h2 align="center">About me</h2>
 
 ```C#
-namespace TNT
+namespace NH43
 {
-    class ngoctienTNT
+    class NguyenHuy43
     {
         static void Main(string[] args)
         {
-            string Name = "Trần Ngọc Tiến";
+            string Name = "Nguyễn Hoàng Huy";
             string Age = "2002";
             string Gender = "Male";
-            string Address = "Khánh Hòa, Việt Nam";
-            string University = "Trường Đại học Công nghệ Thông Tin - UIT";
+            string Address = "Đà Nẵng, Việt Nam";
+            string University = "Trường Đại học Công nghệ Thông Tin Việt - Hàn - VKU";
             string Skills = "C, C++, C#, Java, Dart, Python, HTML, JavaScript";
             string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
         }
@@ -50,7 +50,7 @@ namespace TNT
     <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
   </a>
 	
-  <a href="https://www.instagram.com/ngoctien.tnt/">
+  <a href="https://www.instagram.com/nghuy271/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30">
   </a>
   
