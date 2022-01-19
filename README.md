@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/ngoctienTNT">
-	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="TNT">
+	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="NH43">
 	</a>
 </p>
 
@@ -30,7 +30,7 @@ namespace TNT
 ## <p align="center">You can reach me at 🌹</p>
 
 <p align="center">
-  <a href="https://www.facebook.com/ngoctien.TNT">
+  <a href="https://www.facebook.com/nghuy271/">
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
   </a>
 	
