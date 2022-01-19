@@ -134,7 +134,7 @@ namespace NH43
   </tbody>
 </table>
 
-## <p align="center">Visitor's count :eyes:</p>
+<!-- ## <p align="center">Visitor's count :eyes:</p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{ngoctienTNT}/count.svg" alt="ngoctienTNT :: Visitor's Count" /></p>
 
@@ -172,13 +172,13 @@ namespace NH43
 <a href="https://github.com/ngoctienTNT/ngoctien.TNT">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ngoctien.TNT&theme=tokyonight" alt="ngoctienTNT" />
 </a>
-</p>
+</p> -->
 
-## <p align="center">Github Contributions 📈</p>
+<!-- ## <p align="center">Github Contributions 📈</p>
 <br>
 <p align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=ngoctienTNT&theme=react-dark&hide_border=true">
-<p>
+<p> -->
 
 <hr>
 <br>
